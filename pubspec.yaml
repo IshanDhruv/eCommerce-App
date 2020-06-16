@@ -30,6 +30,7 @@ dependencies:
   provider:
   path_provider:
   flutter_speed_dial:
+  pull_to_refresh:
 
 
   # The following adds the Cupertino Icons font to your application.
